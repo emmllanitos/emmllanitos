@@ -1,6 +1,7 @@
 <p align="center">
-  <a href="https://github.com/emmllanitos">
-    <img src="img/others/banner.png"/></a>
+  <a href="https://github.com/emmllanitos" target="_blank"
+    ><img src="https://i.imgur.com/1gfXnwB.png" border="0" alt="Banner"
+  /></a>
 </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/emmllanitos?logo=github&style=for-the-badge) ![GitHub repo size](https://img.shields.io/github/repo-size/emmllanitos/emmllanitos?logo=github&style=for-the-badge) ![GitHub top language](https://img.shields.io/github/languages/top/emmllanitos/emmllanitos?logo=visual%20studio%20code&style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/emmllanitos/emmllanitos?logo=html5&logoColor=%23ffff&style=for-the-badge) <br>
