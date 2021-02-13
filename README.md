@@ -12,14 +12,18 @@
 
 Pueden contactarme en mis redes:
 
-- <a href="https://www.linkedin.com/in/emmllanitos/"><p>Linkedin</p></a>
-- <a href="https://www.instagram.com/emmllanitos/"><p>Instagram</p></a>
-- <a href="https://www.twitch.tv/elempresario/"><p>Twitch</p></a>
-- <a href="https://twitter.com/emmllanitos"><p>Twitter</p></a>
-
+- <a href="https://www.linkedin.com/in/emmllanitos/"><p>🔗 Linkedin</p></a>
+- <a href="https://www.instagram.com/emmllanitos/"><p>📷 Instagram</p></a>
+- <a href="https://www.twitch.tv/elempresario/"><p>🎤 Twitch</p></a>
+- <a href="https://twitter.com/emmllanitos"><p>💬 Twitter</p></a>
+<br>
 @emmllanitos & @elempresario<br> 
-
+©2021
 <!---
 emmllanitos/emmllanitos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+--->
+
+<!---
+©2021
 --->
