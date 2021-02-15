@@ -17,10 +17,10 @@ Pueden contactarme en mis redes:
 - <a href="https://www.twitch.tv/elempresario/"><p>🎤 Twitch</p></a>
 - <a href="https://twitter.com/emmllanitos"><p>💬 Twitter</p></a>
 <br>
-Repositorio actual: https://emmllanitos.github.io/emmllanitos/
+Repositorio actual: https://emmllanitos.github.io/emmllanitos/<br>
 Portafolio: www.edwarmayorga.dev
 <br>
-@emmllanitos & @elempresario<br><br> 
+@emmllanitos & @elempresario<br><br>
 ©2021
 <!---
 emmllanitos/emmllanitos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
