@@ -17,6 +17,9 @@ Pueden contactarme en mis redes:
 - <a href="https://www.twitch.tv/elempresario/"><p>🎤 Twitch</p></a>
 - <a href="https://twitter.com/emmllanitos"><p>💬 Twitter</p></a>
 <br>
+Repositorio actual: https://emmllanitos.github.io/emmllanitos/
+Portafolio: www.edwarmayorga.dev
+<br>
 @emmllanitos & @elempresario<br><br> 
 ©2021
 <!---
