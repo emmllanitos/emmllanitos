@@ -19,7 +19,7 @@ Pueden contactarme en mis redes:
 <br>
 Repositorio actual: https://emmllanitos.github.io/emmllanitos/<br>
 Portafolio: www.edwarmayorga.dev
-<br>
+<br><br>
 @emmllanitos & @elempresario<br><br>
 ©2021
 <!---
