@@ -42,9 +42,9 @@
     <!-- Hello! What are you spying on my code hehe? -->
   </head>
   <body>
-    <header>
+    <header class="parrafo">
       Header
-      <nav>Nav</nav>
+      <nav id="texto">Nav</nav>
     </header>
 
     <main>
@@ -98,22 +98,50 @@
 
       <p>Formulario - Calendario 3</p>
       <form action="">
-
+        
         <label for="nombre">
           <span>¿Cual es tu nombre?</span>
-          <input type="text" id="nombre" name="nombre" placeholder="Tu nombre" autocomplete="name" required/>
+          <input
+            type="text"
+            id="nombre"
+            name="nombre"
+            placeholder="Tu nombre"
+            autocomplete="name"
+            required
+          />
         </label>
         <label for="correo">
           <span>¿Cual es tu correo?</span>
-          <input type="email" id="correo" name="correo" placeholder="Tu correo" autocomplete="email" required/>
+          <input
+            type="email"
+            id="correo"
+            name="correo"
+            placeholder="Tu correo"
+            autocomplete="email"
+            required
+          />
         </label>
         <label for="pais">
           <span>¿Cual es tu pais?</span>
-          <input type="text" id="pais" name="pais" placeholder="Tu pais" autocomplete="country" readonly/>
+          <input
+            type="text"
+            id="pais"
+            name="pais"
+            placeholder="Tu pais"
+            autocomplete="country"
+            readonly
+          />
         </label>
         <label for="cp">
           <span>¿Cual es tu codigo postal?</span>
-          <input type="text" id="cp" name="cp" placeholder="Tu Codigo postal" autocomplete="postal-code" required/>
+          <input
+            type="text"
+            id="cp"
+            name="cp"
+            placeholder="Tu Codigo postal"
+            autocomplete="postal-code"
+            required
+          />
         </label>
 
         <input type="submit" />
@@ -122,34 +150,62 @@
       <p>Formulario - Calendario 4</p>
       <p>Opci&oacute;n 1</p>
       <select name="cursos" id="">
-        <option value="Curso_Básico_de_Algoritmos_y_Pensamiento_Lógico">Curso_Básico_de_Algoritmos_y_Pensamiento_Lógico</option>
-        <option value="Curso_de_Computación_Básica">Curso_de_Computación_Básica</option>
-        <option value="Curso_de_Introducción_a_la_Terminal_y_Línea_de_Comandos">Curso_de_Introducción_a_la_Terminal_y_Línea_de_Comandos</option>
-        <option value="Curso_de_Prework_Configuración_de_Entorno_de_Desarrollo_en_macOS">Curso_de_Prework_Configuración_de_Entorno_de_Desarrollo_en_macOS</option>
-        <option value="Curso_de_Prework_Configuración_de_Entorno_de_Desarrollo_en_Windows">Curso_de_Prework_Configuración_de_Entorno_de_Desarrollo_en_Windows</option>
-        <option value="Curso_Definitivo_de_HTML_y_CSS">Curso_Definitivo_de_HTML_y_CSS</option>
-        <option value="Curso_Gratis_de_Programación_Básica">Curso_Gratis_de_Programación_Básica</option>
-        <option value="Curso_Profesional_de_Git_y_GitHub">Curso_Profesional_de_Git_y_GitHub</option>
+        <option value="Curso_Básico_de_Algoritmos_y_Pensamiento_Lógico">
+          Curso_Básico_de_Algoritmos_y_Pensamiento_Lógico
+        </option>
+        <option value="Curso_de_Computación_Básica">
+          Curso_de_Computación_Básica
+        </option>
+        <option value="Curso_de_Introducción_a_la_Terminal_y_Línea_de_Comandos">
+          Curso_de_Introducción_a_la_Terminal_y_Línea_de_Comandos
+        </option>
+        <option
+          value="Curso_de_Prework_Configuración_de_Entorno_de_Desarrollo_en_macOS"
+        >
+          Curso_de_Prework_Configuración_de_Entorno_de_Desarrollo_en_macOS
+        </option>
+        <option
+          value="Curso_de_Prework_Configuración_de_Entorno_de_Desarrollo_en_Windows"
+        >
+          Curso_de_Prework_Configuración_de_Entorno_de_Desarrollo_en_Windows
+        </option>
+        <option value="Curso_Definitivo_de_HTML_y_CSS">
+          Curso_Definitivo_de_HTML_y_CSS
+        </option>
+        <option value="Curso_Gratis_de_Programación_Básica">
+          Curso_Gratis_de_Programación_Básica
+        </option>
+        <option value="Curso_Profesional_de_Git_y_GitHub">
+          Curso_Profesional_de_Git_y_GitHub
+        </option>
       </select>
 
       <p>Opci&oacute;n 2</p>
-      
-      <input list="cursos">
-        <datalist id="cursos">
-          <option value="Curso_Básico_de_Algoritmos_y_Pensamiento_Lógico"></option>
-          <option value="Curso_de_Computación_Básica"></option>
-          <option value="Curso_de_Introducción_a_la_Terminal_y_Línea_de_Comandos"></option>
-          <option value="Curso_de_Prework_Configuración_de_Entorno_de_Desarrollo_en_macOS"></option>
-          <option value="Curso_de_Prework_Configuración_de_Entorno_de_Desarrollo_en_Windows"></option>
-          <option value="Curso_Definitivo_de_HTML_y_CSS"></option>
-          <option value="Curso_Gratis_de_Programación_Básica"></option>
-          <option value="Curso_Profesional_de_Git_y_GitHub"></option>
-        </datalist>
 
-        <p>Opci&oacute;n 3</p>
-      
-       <input type="submit" value="Espacio personalizable en value">
-       <button type="submit">Espacio personalizable directo</button>
+      <input list="cursos" />
+      <datalist id="cursos">
+        <option
+          value="Curso_Básico_de_Algoritmos_y_Pensamiento_Lógico"
+        ></option>
+        <option value="Curso_de_Computación_Básica"></option>
+        <option
+          value="Curso_de_Introducción_a_la_Terminal_y_Línea_de_Comandos"
+        ></option>
+        <option
+          value="Curso_de_Prework_Configuración_de_Entorno_de_Desarrollo_en_macOS"
+        ></option>
+        <option
+          value="Curso_de_Prework_Configuración_de_Entorno_de_Desarrollo_en_Windows"
+        ></option>
+        <option value="Curso_Definitivo_de_HTML_y_CSS"></option>
+        <option value="Curso_Gratis_de_Programación_Básica"></option>
+        <option value="Curso_Profesional_de_Git_y_GitHub"></option>
+      </datalist>
+
+      <p>Opci&oacute;n 3</p>
+
+      <input type="submit" value="Espacio personalizable en value" />
+      <button type="submit">Espacio personalizable directo</button>
       <br />
 
       <section>
