@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/emmllanitos" target="_blank"
-    ><img src="https://i.imgur.com/1gfXnwB.png" border="0" alt="Banner"
+    ><img src="./img/others/banner.png" border="0" alt="Banner"
   /></a>
 </p>
 
