@@ -1,16 +1,24 @@
-### Hi there 👋
+### emmllanitos/emmllanitos
 
-<!--
-**emmllanitos/emmllanitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--GitHub followers GitHub repo size GitHub top language GitHub language count-->
 
-Here are some ideas to get you started:
+👋 ¡Hola mucho gusto!, soy Edwar Mayorga joven colombiano residente en la ciudad de Neiva,
+👀 Estoy interesado a colaborar en proyectos de de Java, Spring boot, Bodegas de datos ,Pyton y demas...
+📫 emmllanitos@hotmail.com
+Pueden contactarme en mis redes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Linkedin
+
+📷 Instagram
+
+🎤 Twitch
+
+💬 Twitter
+
+
+Repositorio actual: https://emmllanitos.github.io/emmllanitos/
+Portafolio: www.edwarmayorga.dev
+
+@emmllanitos & @elempresario
+
+©2021
