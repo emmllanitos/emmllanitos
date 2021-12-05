@@ -1,3 +1,15 @@
 * {
     margin: 0;
 }
+
+.footer-box-text{
+    background-color: blue;
+}
+
+.footer-box-header{
+    background-color: red;
+}
+
+.footer-box-social{
+    background-color: aqua;
+}
