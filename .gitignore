@@ -1,0 +1,5 @@
+# No tomar psd
+*.psd
+
+#vscode
+*.json
