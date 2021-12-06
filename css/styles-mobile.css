@@ -25,7 +25,10 @@ body {
   font-family: sans-serif;
   font-weight: lighter;
   background-color: var(--fondo-body);
-  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+
 }
 
 /*HEADER BOX*/
@@ -35,7 +38,7 @@ body {
   flex-wrap: nowrap;
   background-color: var(--verde-claro);
   height: 70px;
-  width: auto;
+  width: 100%;
 }
 
 .nav-container .nav-box-logo {
@@ -72,32 +75,42 @@ body {
 /*FOOTER BOX*/
 .footer-container {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: wrap;
   background-color: var(--verde-claro);
-  height: 70px;
-  flex-grow: 1;
+  margin-top: auto;
+  width: 100%;
 }
 
 .footer-container .footer-box-social {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  flex-grow: 1;
-  height: 100%;
-  width: auto;
+  height: 70px;
+  width: 100%;
 }
 
 .footer-box-social #container-social {
   display: flex;
   justify-content: center;
   flex-grow: 1;
-  padding: 10px 0;
+  padding: 20px 0;
   height: 100%;
   width: auto;
 }
 
+.footer-container .footer-box-text{
+  height: auto;
+  width: 100%;
+  padding: 20px;
+  text-align: justify;
+  font-size: 1rem;
+
+}
+
 /*MAIN BOX*/
 .main-container {
-  min-height: calc(100vh - 70px - 70px);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
 }
