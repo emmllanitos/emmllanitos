@@ -50,6 +50,19 @@ body {
   flex-grow: 1;
 }
 
+/*SVG LOGO NAV*/
+#nav-logo-svg-l1, #nav-logo-svg-l2 {
+  fill: var(--amarillo);
+}
+
+#nav-logo-svg-l3 {
+  fill: var(--azul);
+}
+
+#nav-logo-svg-l4 {
+  fill: var(--rojo);
+}
+
 /*.nav-container .nav-box-nav {
   background-color: blueviolet;
 }*/
@@ -71,23 +84,8 @@ body {
   width: auto;
   height: 3rem;
 }
-
 .footer-container .footer-box-social {
   background-color: aqua;
   width: auto;
   height: 3rem;
-}
-
-/*SVG LOGO HEADER*/
-.header-box-logo svg #header-logo-svg-l1 {
-  fill: var(--amarillo);
-}
-.header-box-logo svg #header-logo-svg-l2 {
-  fill: var(--amarillo);
-}
-.header-box-logo svg #header-logo-svg-l3 {
-  fill: var(--azul);
-}
-.header-box-logo svg #header-logo-svg-l4 {
-  fill: var(--rojo);
 }
