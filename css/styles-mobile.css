@@ -1,0 +1,93 @@
+:root {
+  --fondo-body: #f8f8f8;
+  --verde-claro: #2fbebc;
+  --amarillo: #ffcd00;
+  --azul: #003087;
+  --rojo: #c8102e;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: sans-serif;
+  font-weight: lighter;
+  background-color: var(--fondo-body);
+  height: 100vh;
+}
+
+/*HEADER BOX*/
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: var(--verde-claro);
+}
+
+#nav-box {
+  height: 70px;
+}
+
+.nav-container .nav-box-logo {
+  display: flex;
+  justify-content: left;
+  margin-left: 30px;
+  padding: 10px 0;
+  flex-grow: 1;
+}
+
+.nav-container .nav-box-menu {
+  display: flex;
+  justify-content: right;
+  margin-right: 30px;
+  flex-grow: 1;
+}
+
+/*.nav-container .nav-box-nav {
+  background-color: blueviolet;
+}*/
+
+/*FOOTER BOX*/
+
+.footer-container {
+  background-color: var(--verde-claro);
+}
+
+.footer-container .footer-box-text {
+  background-color: blue;
+  width: auto;
+  height: 3rem;
+}
+
+.footer-container .footer-box-header {
+  background-color: red;
+  width: auto;
+  height: 3rem;
+}
+
+.footer-container .footer-box-social {
+  background-color: aqua;
+  width: auto;
+  height: 3rem;
+}
+
+/*SVG LOGO HEADER*/
+.header-box-logo svg #header-logo-svg-l1 {
+  fill: var(--amarillo);
+}
+.header-box-logo svg #header-logo-svg-l2 {
+  fill: var(--amarillo);
+}
+.header-box-logo svg #header-logo-svg-l3 {
+  fill: var(--azul);
+}
+.header-box-logo svg #header-logo-svg-l4 {
+  fill: var(--rojo);
+}
