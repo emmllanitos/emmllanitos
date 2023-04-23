@@ -3,7 +3,7 @@
 <!--GitHub followers GitHub repo size GitHub top language GitHub language count-->
 
 👋 ¡Hola mucho gusto!, soy Edwar Mayorga joven colombiano residente en la ciudad de Neiva,
-👀 Estoy interesado a colaborar en proyectos de de Java, Spring boot, Bodegas de datos, Pyton y demas...
+👀 Estoy interesado a colaborar en proyectos de de Python, JS, Bodegas de datos  y demas...
 📫 emmllanitos@hotmail.com
 Pueden contactarme en mis redes:
 
@@ -17,8 +17,7 @@ Pueden contactarme en mis redes:
 
 
 Repositorio actual: https://emmllanitos.github.io/emmllanitos/
-Portafolio: www.edwarmayorga.dev
 
 @emmllanitos & @elempresario
 
-©2021
+©2023
